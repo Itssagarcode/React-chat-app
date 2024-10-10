@@ -6,6 +6,7 @@ import { toast } from "react-toastify";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
+    //api key
   apiKey: "AIzaSyAJmVv12puaqY9Wp4gx-2Cf7TYzaID-Wcc",
   authDomain: "chat-app-15s.firebaseapp.com",
   projectId: "chat-app-15s",
